@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">QuadraticSolver</string>
+    <string name="coefficient_a_label">Hệ số a</string>
+    <string name="coefficient_b_label">Hệ số b</string>
+    <string name="coefficient_c_label">Hệ số c</string>
+    <string name="solve_equation">Giải phương trình</string>
+    <string name="two_distinct_roots">Phương trình có hai nghiệm</string>
+    <string name="no_roots">Phương trình vô nghiệm</string>
+    <string name="infinite_roots">Phương trình vô số nghiệm</string>
+    <string name="double_root">Phương trình nghiệm kép</string>
+    <string name="unique_root">Phương trình có một nghiệm</string>
+    <string name="input_required">Vui lòng nhập đủ hệ số</string>
+    <string name="invalid_number">Vui lòng nhập kiểu số</string>
+</resources>
